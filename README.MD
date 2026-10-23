@@ -164,6 +164,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MirrorNotes](https://mirrornotes.org) - Private AI journaling with on-device mood tracking, daily reflection prompts, and "Ask your journal" queries. AI (Gemma 3) runs locally, so no data leaves your device (iOS).
 - [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
 - [DailyVox](https://getdailyvox.com) - Voice journal that tracks mood and surfaces patterns on-device, building a private "Digital Twin" from your spoken entries. No account or cloud; free and open source (iOS).
+- [MoodCup](https://getapps.cafe/app/moodcup) - One-click daily mood log shown as a full-year grid of coloured squares, stored locally (Mac and Windows).
 
 ### Sleep
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
